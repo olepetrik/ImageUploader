@@ -58,7 +58,7 @@ export default {
 .column{
     display: block;
     margin-right: .5vw;
-    width: 100%;
+    width: 30%;
 }
 
 .item{
